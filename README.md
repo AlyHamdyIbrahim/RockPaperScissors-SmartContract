@@ -2,7 +2,7 @@
 
 #### By _**Aly Hamdy**_
 
-#### _A tie between two participants happened in a competition, and a mechanism is needed to distribute the reward. The two participants agreed to use a rock-paper-scissors game to decide whether one of them should take the reward, or distribute it equally among them. However, the participants were not at the same place to run this._
+#### A tie between two participants happened in a competition, and a mechanism is needed to distribute the reward. The two participants agreed to use a rock-paper-scissors game to decide whether one of them should take the reward, or distribute it equally among them. However, the participants were not at the same place to run this.
 #### _Write a smart contract that would enable the participants to run the protocol. Assume that the two participants have known addresses in advance, and that the contest manager is the creator of the contract. The contract creator will deposit the reward to the contract at the beginning._
 
 ## Technologies Used
@@ -44,3 +44,9 @@ You can test and use this code using [Remix online IDE](https://remix.ethereum.o
 The MIT License (MIT)
 
 Copyright (c) 2023 Aly Hamdy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
