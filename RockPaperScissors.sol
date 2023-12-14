@@ -242,6 +242,8 @@ contract RockPaperScissors {
         }
     }
 
+    // This function is used only for testing, it must not be used in a deployed smart contract.
+    // The use of this function in a deployed smart contract will reveal the private choice and secret of the player.
     function getCommitment(int choice, bytes32 secret, address playerAddress)
     pure public
     returns (bytes32 cm)
